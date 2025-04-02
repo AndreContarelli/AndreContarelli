@@ -14,7 +14,7 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-a.contarellilima@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.contarellilima@gmail.com)](mailto:a.contarellilima@gmail.com)
-[![Linkedin: André](https://img.shields.io/badge/-AndreLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-lima-4a658225a/)](https://www.linkedin.com/in/andré-lima-4a658225a/)
+[![Linkedin: André](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-lima-4a658225a/)](https://www.linkedin.com/in/andré-lima-4a658225a/)
 <br><br>
 
 
